@@ -10,9 +10,7 @@
 
 Click the image below to watch the full project demo on YouTube.
 
-[![Project Demo Video]([LINK_TO_YOUR_THUMBNAIL_IMAGE_HERE])]([PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE])
-
-**Direct Link:** [PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE]
+**Direct Link:** (https://youtu.be/p-AjP0wCTvo)
 
 ---
 
@@ -55,7 +53,7 @@ Based on the information above, please write a complete report for me that inclu
 5.  Error Analysis: List three common sources of error for this experiment.
 
 Please write it all out as one single piece of text that I can easily copy and paste. Thanks so much!
-
+```
 
 🛠️ Built With
 Perplexity Comet
